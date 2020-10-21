@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestTriangle" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-19T12:59:05" hostname="MacBook-Air.local" time="0.046">
+<testsuite name="com.example.project.TestTriangle" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-21T02:00:38" hostname="MacBook-Air.local" time="0.037">
   <properties/>
-  <testcase name="testTranslateX()" classname="com.example.project.TestTriangle" time="0.046"/>
+  <testcase name="testTranslateX()" classname="com.example.project.TestTriangle" time="0.037"/>
   <system-out><![CDATA[testing translateX - passed
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
